@@ -13,4 +13,6 @@ Im Zusammenhang mit dem Goldenen Schnittpunkt steht die Drittel-Regel.
 
 ![Drittel-Regel](bgg.png)
 
-Die Platzierung hervorzuhebender Objekten, wird durch die Drittel-Regel optimiert. Der Blickpunkt in der Bildmitte wirkt langweilig, verwendet man aber den Goldenen Schnitt / die Drittel-Regel, kann man ein harmonisch spannungsvolles Bild gestallten.
+Die Platzierung hervorzuhebender Objekten, wird durch die Drittel-Regel optimiert. 
+
+Der Blickpunkt in der Bildmitte wirkt langweilig, verwendet man aber den Goldenen Schnitt / die Drittel-Regel, kann man ein harmonisch spannungsvolles Bild gestallten.
