@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "afsc_0208_klein.jpg"
 +++
-Der Goldene Schnittpunkt stehlt ein harmonisch wirkendes Massverhältnis dar. Im weiten Sinne, ist der Goldene Schnittpunkt die Teilung einer Fläche in zwei ungleiche Teile A und B.
+Der Goldene Schnittpunkt stellt ein harmonisch wirkendes Massverhältnis dar. Im weiten Sinne, ist der Goldene Schnittpunkt die Teilung einer Fläche in zwei ungleiche Teile A und B.
 
 ![Zwei-Teilung (Goldener Schnitt)](bg.png)
 
