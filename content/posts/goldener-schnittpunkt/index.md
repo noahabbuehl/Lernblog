@@ -1,6 +1,6 @@
 +++
 title = "Goldener Schnittpunkt / Drittel-Regel "
-date = "2021-02-03"
+date = "2021-05-05"
 draft = false
 pinned = false
 image = "afsc_0208_klein.jpg"
